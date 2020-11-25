@@ -1,7 +1,8 @@
 ########################################################
 # Experimental primitive proto Gui for switching Pi Cam
 # preview on via GUI button also attempt to
-# capture stills pictures with GUI button
+# capture stills pictures with GUI button and
+# increment the filename number.
 #
 # Bampot1 18/11/2020
 #
